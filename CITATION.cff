@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "AI Lab Constitution"
+message: "If you use this work, please cite it."
+type: software
+
+authors:
+  - family-names: "Nishimura"
+    given-names: "Madoka"
+
+abstract: >
+  A constitutional framework for using artificial intelligence
+  in academic laboratories, emphasizing reproducibility,
+  understanding, stable environments, Socratic learning,
+  and responsible AI-assisted education and research.
+
+license: "CC-BY-4.0"
+
+keywords:
+  - artificial intelligence
+  - ai education
+  - academic laboratories
+  - ai governance
+  - socratic method
+  - reproducibility
+  - educational technology
+
+language: en
+
+repository-code: "https://github.com/madokanishimura-next/ai-lab-constitution"
